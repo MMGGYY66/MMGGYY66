@@ -52,8 +52,6 @@
 <p>
     <a href="https://www.linkedin.com/in/mohamed-eldimardash-0023a3b5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="64" height="64" /></a> 
 
-    <a href="https://www.github.com/miltonhenschel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="64" height="64" /></a> 
-
   <a href="mailto:gigiali21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
