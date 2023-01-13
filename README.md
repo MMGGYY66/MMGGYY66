@@ -9,6 +9,7 @@
 
 
 - 📫 How to reach me:
+![github](https://github.com/MMGGYY66/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 - 😄 Pronouns: He/Him
 
