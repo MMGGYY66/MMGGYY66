@@ -45,15 +45,22 @@
 - 👯 I’m looking to collaborate on any web development projects.
 
 
-- 📫 How to reach me:
+- 📫 How to reach me: 
+- ### Socials
+
 ### Connect with me:
 <p>
-  <a href="https://twitter.com/MOHAMEDELDIMARd">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+    <a href="https://www.linkedin.com/in/mohamed-eldimardash-0023a3b5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="64" height="64" /></a> 
+
+    <a href="https://www.github.com/miltonhenschel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="64" height="64" /></a> 
+
   <a href="mailto:gigiali21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    <a href="https://twitter.com/MOHAMEDELDIMARd">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
   <a href="https://www.instagram.com/m.eldimardash/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -61,8 +68,24 @@
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: 
+### Skills
 
+<p align="left">
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="64" height="64" alt="CSS3" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="64" height="64" alt="JavaScript" /></a>
+    
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="64" height="64" alt="HTML5" /></a>
+  
+  
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="64" height="64" alt="Figma" /></a>
+  
+</p>
+  
+    
+
+<!-- - ⚡ Fun fact: 
+ -->
 <!--
 **MMGGYY66/MMGGYY66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
