@@ -67,7 +67,7 @@
 - 📫 How to reach me: 
 - ### Socials
 
-### Connect with me:
+<h2> Connect with me: <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h2>
 <p>
     <a href="https://www.linkedin.com/in/mohamed-eldimardash-0023a3b5/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/levy-ukwishaka" />
