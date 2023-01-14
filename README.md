@@ -1,16 +1,36 @@
-### Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> , I am Mohamed Gamil Eldimardash!
+<h1 align="center"> 
+  <a href="[https://github.com/MMGGYY66](https://github.com/MMGGYY66/my-awesome-books)">
+    Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> , I am Mohamed Gamil Eldimardash!</h1>
+
+  <!----------------------------- About Section -------------------------------->
+<h3>I am a passionate full-stack developer who enjoys working on all kinds of tech.</h3>
+
 - I am Experienced department head with a demonstrated history of working in the education management industry. Skilled in IOS PROGRAMMING, MS OFFICE AND MUSIC.
+- 🦾 I'm a problem solver and fast learner with good communication skills
 
 - 🔭 I’m currently working on: 
 [Awesome Books project](https://github.com/MMGGYY66/my-awesome-books)
 
 - 🌱 I’m currently learning at :
 [Microverse](https://www.microverse.org/)
+- ⚡ I like 👨‍💻 : Programming | Music | 📖: books <hr>
+
+  <!--------------------------------- Tech Stack Section -------------------------------->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+      <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt=""rails />
+
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
@@ -44,13 +64,16 @@
 
 - 👯 I’m looking to collaborate on any web development projects.
 
+<!------------------------------ Social Media Links Section ------------------------------>
 
 - 📫 How to reach me: 
 - ### Socials
 
 ### Connect with me:
 <p>
-    <a href="https://www.linkedin.com/in/mohamed-eldimardash-0023a3b5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="64" height="64" /></a> 
+    <a href="https://linkedin.com/in/levy-ukwishaka/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/levy-ukwishaka" />
+    </a>
 
   <a href="mailto:gigiali21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -64,9 +87,10 @@
   </a>
 </p>
 
-- 😄 Pronouns: He/Him
 
-### Skills
+    <!--------------------------------- Skills Section -------------------------------->
+
+### My Skills
 
 <p align="left">
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="64" height="64" alt="CSS3" /></a>
@@ -80,7 +104,22 @@
   
 </p>
   
-    
+<h2><i>My GitHub Stats</i></h2>
+<p align="center">
+
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&hide_border=true" alt="levy002" />
+
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD" alt="levy002" />
+ 
+
+<div align="end">
+<p><b>Visitors Count</b></p>  
+<img src="https://profile-counter.glitch.me/{MMGGYY66}/count.svg" />
+</div>
+<!-- ?
+
+- 😄 Pronouns: He/Him
 
 <!-- - ⚡ Fun fact: 
  -->
