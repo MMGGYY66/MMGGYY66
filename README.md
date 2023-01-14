@@ -85,7 +85,7 @@
   </a>
 </p>
 
-
+<hr/>
 <!--      Skills Section  -->
 
 ### My Skills
@@ -101,7 +101,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="64" height="64" alt="Figma" /></a>
   
 </p>
-  
+  <hr/>
+
 <h2><i>My GitHub Stats</i></h2>
 <p align="center">
 
