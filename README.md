@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <a href="https://github.com/MMGGYY66/my-awesome-books">
-    Hi, I am Mohamed Gamil Eldimardash! /></h1>
+    Hi, I am Mohamed Gamil Eldimardash!</h1>
 </a>
   <!----------------------------- About Section -------------------------------->
 <h3>I am a passionate full-stack developer who enjoys working on all kinds of tech.</h3>
@@ -86,7 +86,7 @@
 </p>
 
 
-    <!--------------------------------- Skills Section -------------------------------->
+    <!-- ------------------------------- Skills Section ------------------------------ -->
 
 ### My Skills
 
