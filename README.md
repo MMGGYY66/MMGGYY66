@@ -1,7 +1,7 @@
 <h1 align="center"> 
   <a href="https://github.com/MMGGYY66/my-awesome-books">
-    Hi, I am Mohamed Gamil Eldimardash!</h1>
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
+    Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> , I am Mohamed Gamil Eldimardash!</h1>
+  
 </a>
   <!----------------------------- About Section -------------------------------->
 <h3>I am a passionate full-stack developer who enjoys working on all kinds of tech.</h3>
