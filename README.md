@@ -140,7 +140,7 @@
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true"
@@ -150,7 +150,7 @@
 </picture>
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMGGYY66&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMGGYY66&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark)](https://git.io/streak-stats) 
   
