@@ -150,8 +150,9 @@
 </picture>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMGGYY66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMGGYY66&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark)](https://git.io/streak-stats) 
   
 <div align="end">
 <p><b>Visitors Count</b></p>  
