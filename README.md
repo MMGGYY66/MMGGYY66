@@ -133,11 +133,13 @@
 </p>
   <hr/>
 
+<!------------------------------ My GitHub Stats ------------------------------>
+
 <h2><i>My GitHub Stats</i></h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-<a href="https://github.com/MMGGYY66"><img src="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="MMGGYY66's GitHub stats" /></a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark)](https://git.io/streak-stats)
