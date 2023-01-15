@@ -144,7 +144,7 @@
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true" />
 </picture>
@@ -154,8 +154,6 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMGGYY66&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=MMGGYY66&theme=dark)](https://git.io/streak-stats)
   
 <div align="end">
 <p><b>Visitors Count</b></p>  
