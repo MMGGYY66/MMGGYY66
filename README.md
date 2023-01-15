@@ -139,7 +139,7 @@
 </p>
 
 <p align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark)](https://git.io/streak-stats) 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark)](https://git.io/streak-stats) 
 
 <div align="end">
 <p><b>Visitors Count</b></p>  
