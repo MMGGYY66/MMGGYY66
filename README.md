@@ -146,11 +146,11 @@
   srcset="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true"
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
 </picture>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMGGYY66&layout=compact)](https://github.com/anuraghazra/github-readme-stats, media="(prefers-color-scheme: dark)"
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMGGYY66&layout=compact)](https://github.com/anuraghazra/github-readme-stats media="(prefers-color-scheme: dark)"
 )
   
 <div align="end">
