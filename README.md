@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="200"/>
+</div>
+
 <h1 align="center"> 
   <a href="https://github.com/MMGGYY66/my-awesome-books">
     Hi, I am Mohamed Gamil Eldimardash!</h1>
