@@ -137,10 +137,8 @@
 
 <h2><i>My GitHub Stats</i></h2>
 
-<p align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MMGGYY66&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark)](https://git.io/streak-stats)
   
