@@ -105,6 +105,8 @@
 
 <h2><i>My GitHub Stats</i></h2>
 <p align="center">
+<a href="https://github.com/MMGGYY66"><img src="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="MMGGYY66's GitHub stats" /></a>
+</p>
 
 <p align="center">
 <!--  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&hide_border=true" alt="levy002" />
