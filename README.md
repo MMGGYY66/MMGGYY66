@@ -90,7 +90,7 @@
 <hr/>
 <!--      Skills Section  -->
 
-### My Skills
+<!-- ### My Skills
 
 <p align="left" display="flex">
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="44" height="44" alt="CSS3" /></a>
@@ -104,7 +104,7 @@
   
 </p>
   <hr/>
-
+ -->
 <!------------------------------ My GitHub Stats ------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
