@@ -108,6 +108,15 @@
 <!------------------------------ My GitHub Stats ------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
+<p align="left">
+  <a href="https://github.com/MMGGYY66">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=codepantha&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=MMGGYY66&custom_title=MMGGYY66%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://mmggyy66.github.io/my-portfolio-website/)
 
 <picture>
   <source
