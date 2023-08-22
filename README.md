@@ -110,7 +110,7 @@
 
 <p align="center">
   <a href="https://github.com/MMGGYY66">
-  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark"> (https://git.io/streak-stats) 
+  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark"> 
   </a>
 </p>
 <br>
