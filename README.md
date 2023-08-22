@@ -149,14 +149,20 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
 </picture>
 -->
-<div align="center">
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMGGYY66&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark)](https://git.io/streak-stats) 
-</div>
 
-<div align="end">
+<p align="center">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMGGYY66&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+<br>
+<br>
+
+<p align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark)](https://git.io/streak-stats) 
+</p>
+<br>
+<br>
+
+<div align="center">
 <p><b>Visitors Count</b></p>  
 <img src="https://profile-counter.glitch.me/{MMGGYY66}/count.svg" />
 </div>
