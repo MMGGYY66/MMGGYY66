@@ -109,6 +109,8 @@
 <br>
 
 <p align="center">
+  <h2><i>My streak-stats</i></h2>
+
   <a href="https://github.com/MMGGYY66">
   <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark"> 
   </a>
