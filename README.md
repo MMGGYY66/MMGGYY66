@@ -90,21 +90,6 @@
 <hr/>
 <!--      Skills Section  -->
 
-<!-- ### My Skills
-
-<p align="left" display="flex">
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="44" height="44" alt="CSS3" /></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="44" height="44" alt="JavaScript" /></a>
-    
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="44" height="44" alt="HTML5" /></a>
-  
-  
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="44" height="44" alt="Figma" /></a>
-  
-</p>
-  <hr/>
- -->
 <!------------------------------ My GitHub Stats ------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
@@ -115,50 +100,18 @@
 </p>
 <br>
 
-
-<!--
-[![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=MMGGYY66&custom_title=MMGGYY66%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://mmggyy66.github.io/my-portfolio-website/)
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=codepantha&theme=gruvbox&hide_border=true" />
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true" />
-</picture>
-
-<picture>
-<source 
-  ![MMGGYY66's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true&theme=highcontrast)
-
-  
-  ![MMGGYY66's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMGGYY66&hide=contribs,prs)
-  
-  srcset="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=MMGGYY66&show_icons=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
-</picture>
--->
-
 <p align="center">
   <a href="https://github.com/MMGGYY66">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMGGYY66&theme=dark">
+  </a>
 </p>
 <br>
 <br>
 
 <p align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark)](https://git.io/streak-stats) 
+  <a href="https://github.com/MMGGYY66">
+  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark"> (https://git.io/streak-stats) 
+  </a>
 </p>
 <br>
 <br>
