@@ -151,7 +151,8 @@
 -->
 
 <p align="center">
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMGGYY66&theme=dark)(https://github.com/MMGGYY66/github-readme-stats)
+  <a href="https://github.com/MMGGYY66">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMGGYY66&theme=dark">
 </p>
 <br>
 <br>
