@@ -108,13 +108,14 @@
 <br>
 <br>
 
-<p align="center">
+<div align="center">
   <h2><i>My streak-stats</i></h2>
-
-  <a href="https://github.com/MMGGYY66">
-  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark"> 
-  </a>
-</p>
+  <p>
+    <a href="https://github.com/MMGGYY66">
+      <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=MMGGYY66&theme=dark"> 
+    </a>
+  </p>
+</div>
 <br>
 <br>
 
